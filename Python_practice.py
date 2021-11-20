@@ -1,14 +1,6 @@
-counties = ["ara", "den", "jeff"]
-if "elpa" in counties:
-  print("elpa is in the list of counties.")
-else:
-  print ("elpa is not the list of counties")
-
-for county in counties :
-  print (county)
-numbers = [1,2,3,4,]
-for num in numbers:
-  print (num)
-for county in counties_dict.keys():
-  print(county)
+import csv
+import os
+file_to_load = os.path.join("Resources" , "election_results.csv")
+file_to_save = os.path.join("analysis" , "election_analysis.txt")
+with open(file_to_load) as election_data:
   
