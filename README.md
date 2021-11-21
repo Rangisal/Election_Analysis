@@ -1,12 +1,15 @@
 # Election_Analysis
-# Project Overview 
-the follwoing 
-
-- calculate the toal number of bvotes cast
-- get a complete list of candidates who recived votes 
-- calculate the total number of votes each candidate recived
-- calculate the percentage of votes each candidate won
-- dettermine the winner of the election based on popular vote
+# Project Overview
+Complete the Election audit of the local Congressional Election held in Colorado for the Board of Colorado Elections.
+The audit is based on the following tasks assigned by the Board members. 
+- calculate the toal number of votes cast
+- Get a complete list of candidates who recived votes 
+- Calculate the total number of votes each candidate recived
+- Calculate the percentage of votes each candidate won
+- Dettermine the winner of the election based on popular vote
+- The voter turnout for each county
+- The percentage of votes from each county
+- The county with the highest turnout
 
 # Resources 
 Data source : election_results.csv
