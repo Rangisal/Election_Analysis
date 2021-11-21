@@ -18,9 +18,9 @@ Software : Python 3.7.6 , Visual Studio Code 1.62.2
 # Summary
 - There were 369,711 votes casted in the election
 - The candidates were
-  - Candi 1
-  - Candi 2
-  - Candi 3
+  - Charles Casper Stockhalm
+  - Diana DeGette
+  - Raymon Anthony Doane
 The candidate resuts were 
  Candi 1 received % the vote and ya numver of votes 
  candi 2 .....
