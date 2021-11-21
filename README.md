@@ -45,6 +45,8 @@ Software : Python 3.7.6 , Visual Studio Code 1.62.2
 
 - The County with largest vote turnout was Denver with total of 306,055 and 82.8% as a percentage.
 
+
+
  ![image](https://user-images.githubusercontent.com/93173498/142779999-d1ce63f2-2484-4a9c-82f2-e5df300cf280.png)
 
 
