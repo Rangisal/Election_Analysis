@@ -1,5 +1,7 @@
 # Election_Analysis
 # Project Overview 
+the follwoing 
+
 1. calculate the toal number of bvotes cast
 2. get a complete list of candidates who recived votes 
 3. calculate the total number of votes each candidate recived
