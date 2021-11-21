@@ -15,7 +15,8 @@ The audit is based on the following tasks assigned by the Board members.
 Data source : election_results.csv
 Software : Python 3.7.6 , Visual Studio Code 1.62.2
 
-# Election Audit Results
+# Election Audit Results by Candidates
+
 - There were 369,711 votes casted in the election
 
 - The candidates were
@@ -30,8 +31,17 @@ Software : Python 3.7.6 , Visual Studio Code 1.62.2
   
 - The winner of the election was Diana with 272,892 total votes with 73.8% as a percentage.
 
-How many votes were cast in this congressional election?
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+# Election Audit Results by County
+
+- The Counties were
+  - Jefferson
+  - Denver 
+  - Arapahoe
+
+- The vote turnout for each County
+  - Jefferson received 10.5% of the vote with total of 38,855
+  - Denver received 82.8% of the vote with total of 306,055
+  - Arapahoe received 6.7% of the vote with total of 24,801 
+
+- The County with largest vote turnout was Denver with total of 306,055 and 82.8% as a percentage.
+
