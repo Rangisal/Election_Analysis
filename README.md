@@ -28,7 +28,7 @@ Software : Python 3.7.6 , Visual Studio Code 1.62.2
   - Diana DeGette received 73.8% of the vote with a total of 272,892 votes.
   - Raymon Anthony received 3.1% of the vote with a total of 11,606 votes.
   
-- The winner of the election was Diana with 272,892 total votes with 73.8% of the vote.
+- The winner of the election was Diana with 272,892 total votes with 73.8% as a percentage.
 
 How many votes were cast in this congressional election?
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
