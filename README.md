@@ -52,5 +52,8 @@ Software : Python 3.7.6 , Visual Studio Code 1.62.2
 
 # Election Audit Summary 
 
-
+- This script can be used for any congressionall election with only ballot Id, Candidate and County. And the winning candidate and winning county can be determines with the     total votes and their percentage. 
+- The same can be used for the federal election by using state information instead of the county information.
+- The final results of the above comparison will be very helpful to determine the vote turnover of each demography. 
+- By a proper midification , using if statement the percentage , vote turnover for each candidate from each county can be determined. 
 
