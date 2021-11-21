@@ -9,7 +9,7 @@ the follwoing
 - dettermine the winner of the election based on popular vote
 
 # Resources 
-Data |source : election_results.csv
+Data source : election_results.csv
 Software : Python 3.7.6 , Visual Studio Code 1.62.2
 
 # Summary
