@@ -17,14 +17,21 @@ Software : Python 3.7.6 , Visual Studio Code 1.62.2
 
 # Summary
 - There were 369,711 votes casted in the election
+
 - The candidates were
   - Charles Casper Stockhalm
   - Diana DeGette
   - Raymon Anthony Doane
-The candidate resuts were 
- Candi 1 received % the vote and ya numver of votes 
- candi 2 .....
- candi 3........
- The winner of the election was 
- candi x who recievd % b the vote and yyyy number of votes.
- 
+  
+- The candidate results
+  - Charles Casper received 23.00% of the vote with a total of 85,213 votes.
+  - Diana DeGette received 73.8% of the vote with a total of 272,892 votes.
+  - Raymon Anthony received 3.1% of the vote with a total of 11,606 votes.
+  
+- The winner of the election was Diana with 272,892 total votes with 73.8% of the vote.
+
+How many votes were cast in this congressional election?
+Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+Which county had the largest number of votes?
+Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
