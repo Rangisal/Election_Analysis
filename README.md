@@ -15,7 +15,7 @@ The audit is based on the following tasks assigned by the Board members.
 Data source : election_results.csv
 Software : Python 3.7.6 , Visual Studio Code 1.62.2
 
-# Summary
+# Election Audit Results
 - There were 369,711 votes casted in the election
 
 - The candidates were
