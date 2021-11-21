@@ -2,7 +2,7 @@
 # Project Overview
 Complete the Election audit of the local Congressional Election held in Colorado for the Board of Colorado Elections.
 The audit is based on the following tasks assigned by the Board members. 
-- calculate the toal number of votes cast
+- Calculate the toal number of votes cast
 - Get a complete list of candidates who recived votes 
 - Calculate the total number of votes each candidate recived
 - Calculate the percentage of votes each candidate won
