@@ -10,7 +10,7 @@ the follwoing
 
 # Resources 
 Data |source : election_results.csv
-Software : Python 3.6.1. , Visual Studio Code 1.38.1
+Software : Python 3.7.6 , Visual Studio Code 1.62.2
 
 # Summary
 - there were x votes cast in the election
