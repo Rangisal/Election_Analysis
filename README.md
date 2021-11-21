@@ -14,6 +14,7 @@ The audit is based on the following tasks assigned by the Board members.
 # Resources 
 Data source : election_results.csv
 Software : Python 3.7.6 , Visual Studio Code 1.62.2
+Final Audit results Script - https://github.com/Rangisal/Election_Analysis/blob/main/PyPoll_Challenge.py
 
 # Election Audit Results by Candidates
 
